@@ -27,11 +27,32 @@ dependencies:
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
-  cupertino_icons: ^1.0.2
-  flutter_modular:
-  mobx:
-  flutter_mobx:
-  dio:
+  asuka: ^1.0.4
+  carousel_slider: ^3.0.0
+  cloud_firestore: ^1.0.4
+  dio: ^4.0.0
+  esys_flutter_share: ^1.0.2
+  fast_rsa: ^2.0.0-nullsafety.0
+  firebase_auth: ^1.0.1
+  firebase_core: ^1.0.2
+  flutter_launcher_icons: ^0.9.0
+  flutter_masked_text: ^0.8.0
+  flutter_modular: any
+  flutter_slidable: ^0.5.7
+  flutter_triple: ^1.0.5+1
+  font_awesome_flutter: ^9.0.0-nullsafety
+  intl: ^0.17.0
+  mask_text_input_formatter: ^1.0.7
+  mobx_triple: ^1.0.2
+  url_launcher: ^6.0.6
+  qr_flutter: ^4.0.0
+  # qrscan: ^0.3.1
+  flutter_barcode_scanner: ^2.0.0
+  screenshot: ^0.3.0
+  shared_preferences: ^2.0.5
+  shimmer: ^1.1.1
+  triple: ^1.0.1
+  flutter_modular_test: ^1.0.1
 
 dev_dependencies:
   mobx_codegen:
